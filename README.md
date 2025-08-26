@@ -33,7 +33,7 @@ It’s **lightweight, minimal, and easy to use** — perfect for staying organiz
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/DailyRoutineTracker.git
+git clone https://github.com/oxm4r/DailyRoutineTracker.git
 pip install pyqt5
 python routine.py
 ```
